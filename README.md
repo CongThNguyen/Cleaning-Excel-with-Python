@@ -24,7 +24,7 @@ For `“Brand Awareness.xlsx”`, only the following columns are shown:
 
 b/ Filter dates to be to contain up to and including `'2017-04-01' – ‘2018-10-01’` 
 
-c/ Join the two dataset `“GDP data Raw.xlsx”` and `“Brand Awareness.xlsx”` by date. Then output to look like `"Metrics_combined.csv"`
+c/ Join the two dataset `“GDP data Raw.xlsx”` and `“Brand Awareness.xlsx”` by date. Then output to look like `"Metrics combined.csv"`
 
 2. The third file is called `‘Impressions & Clicks.xlsx’` which contains a websites clicks and impressions which is currently in a daily view format.
 
