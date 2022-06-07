@@ -1,7 +1,7 @@
 # Cleaning-Excel-with-Python
 Short project (using Python) to demonstrate my skill in data cleaning, merging and filter from Excel file. 
 
--1. There are two files: `“GDP data Raw.xlsx” and “Brand Awareness.xlsx”`. Using pandas, and/or a selection of other packages:
+- 1. There are two files: `“GDP data Raw.xlsx” and “Brand Awareness.xlsx”`. Using pandas, and/or a selection of other packages:
 
 a/ write python code to clean the two sets of data so that:
 
