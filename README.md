@@ -14,7 +14,7 @@ a. write python code to clean the two sets of data so that only the following co
 ii. Spontaneous Brand Awareness, Brand Consideration, Fibre awareness (prompted), Fibre Consideration, TV awareness (prompted), TV consideration 
 
 
-b. Filter dates to be to contain up to and including '2017-04-01' – ‘2018-10-01’ 
+b. Filter dates to be to contain up to and including `'2017-04-01' – ‘2018-10-01’` 
 c. Join the two sets by date (output to look like Metrics_combined.csv)
 
 2. The third file is called ‘Impressions & Clicks.xlsx’ which contains a websites clicks and impressions in currently in a daily view.  
