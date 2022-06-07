@@ -26,7 +26,7 @@ b/ Filter dates to be to contain up to and including `'2017-04-01' – ‘2018-1
 
 c/ Join the two dataset `“GDP data Raw” and “Brand Awareness”` by date. Then output to look like "Metrics_combined.csv"
 
-2. The third file is called ‘Impressions & Clicks.xlsx’ which contains a websites clicks and impressions in currently in a daily view.
+2. The third file is called `‘Impressions & Clicks.xlsx’` which contains a websites clicks and impressions which is currently in a daily view format.
 
 a/ Aggregate this data up to a weekly view, with weeks being Monday - Sunday. Then output to look like "Impressions & clicks combined.csv"
 
