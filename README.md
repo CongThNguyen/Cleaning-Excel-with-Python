@@ -28,5 +28,5 @@ c/ Join the two dataset `“GDP data Raw.xlsx”` and `“Brand Awareness.xlsx�
 
 2. The third file is called `‘Impressions & Clicks.xlsx’` which contains a websites clicks and impressions which is currently in a daily view format.
 
-a/ Aggregate this data up to a weekly view, with weeks being Monday - Sunday. Then output to look like `"Impressions & clicks combined.csv"`
+a/ Aggregate this data up to a weekly view, with weeks being Monday - Sunday. Then output to look like `"Impressions & clicks cleaned.csv"`
 
